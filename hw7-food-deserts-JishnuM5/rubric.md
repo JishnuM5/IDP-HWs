@@ -1,0 +1,13 @@
+# Homework 7 - Mapping Rubric
+
+| Category | F (Unsatisfactory) | C (Needs Work) | B (Satisfactory) | A (Excellent) |
+|----------|-------------------|----------------|------------------|---------------|
+| **Behavior** | No modifications to the original template | • Main does not call all required functions<br>• hw7.py does not run or has syntax errors<br>• Incorrect function inputs<br>• Using LATracts_half or LATracts_10<br>• Obvious visual differences from expected output | • Incorrect color code for grey background or extra edgecolor<br>• Incorrect figsize<br>• Unnecessary .copy(s) of Dataframe<br> | • Expected output matches<br>• All plots properly generated <br>• Image comparison meets the grading minimum percentage tolerance (%age will be adjusted to allow minor differences)|
+| **Concepts** | No modifications to the original template | Using global variables instead of constants<br>• Using loops or list comprehensions unnecessarily<br>• Incorrect usage of dissolve | • All variables are declared in local scope<br>• No usage of global variables<br>• Some redundancies or inefficiency in solution | • No extra library imports other than math, pandas, geopandas and matplotlib<br>• No extra computation when using dissolve<br>• Efficient, non-redundant solution |
+| **Quality** | Code is extremely difficult to read and impossible to follow | • Not passing flake8<br>• Missing or incorrectly formatted function comments<br>• Missing file header comments | • Pass flake8 in both files<br>• All functions are commented<br>• Have all file header comments<br>• Function comments contain reasonable description (e.g. does not just restate the function name)<br>• Variable/function names follow convention | • The description in file header is descriptive to 3 or more sentences (more than "implements functions for HW7") |
+| **Writeup** | hw7-writeup.md is empty | • Answer to either Problem 1 or 2 with less than 3 sentences<br>• Not naming way officials can use visualizations to shape food access policy<br>• Not naming a limitation or concern with using the visualization | • Minimal markdown formatting (only 1 or 2 formatting used or inappropriate use of emphasis)<br>• Serious attempt demonstrated in all responses<br>• Responses related to the visualizations generated or datasets in HW7 | • Demonstrates understanding and documents the connection between visualization and practical applications<br> • Excellent use of markdown to emphasize content appropriately (i.e. headers, tables, quotes, inline images etc) | 
+
+## Detailed Grading Notes
+
+   - Students must fulfill ALL criteria in Satisfactory and Excellent to get an A
+   - Must fulfill ALL criteria in Satisfactory (and maybe some in Excellent) to get a Satisfactory
